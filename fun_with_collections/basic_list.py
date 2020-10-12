@@ -7,7 +7,11 @@ Program:
 
 
 def make_list():
-    pass
+    u_list = []
+    for i in range(0, 3):
+        u_input = int(get_input())
+        u_list.insert(i, u_input)
+    return u_list
 
 
 def get_input():
