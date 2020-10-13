@@ -10,6 +10,10 @@ class SearchList(unittest.TestCase):
         result = sort_and_search_list.search_list("purple")
         self.assertNotEqual(result, -1)
 
+    def test_sort_list(self):
+        result = sort_and_search_list.sort_list()
+        self.assertEqual(result, ["blue", "green", "orange", "red", "yellow"])
+
 
 if __name__ == '__main__':
     unittest.main()

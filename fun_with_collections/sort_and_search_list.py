@@ -10,13 +10,19 @@ myList = ["red", "orange", "yellow", "green", "blue"]
 
 
 def search_list(c):
-    pass
+    if c in myList:
+        return myList.index(c)
+    else:
+        return "-1"
 
 
 def sort_list():
-    pass
+    myList.sort()
+    sorted_list = myList
+    return myList
 
 
 if __name__ == '__main__':
     search_list("yellow")
+    sort_list()
 
