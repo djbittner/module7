@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4b1197-597b-4b15-b6a6-167aa8558601" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/module7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_collections/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_collections" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager" selected="Python.basic_list">
     <configuration name="basic_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -109,10 +105,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="93" key="FileChooserDialogImpl" timestamp="1602461129488">
-      <screen x="-1920" y="-182" width="1920" height="1040" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1602549321742">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1180" y="93" key="FileChooserDialogImpl/0.0.1366.728/-1920.-182.1920.1040@-1920.-182.1920.1040" timestamp="1602461129488" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602549321742" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
