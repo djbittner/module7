@@ -10,6 +10,9 @@ class SearchList(unittest.TestCase):
         result = sort_and_search_array.search_array("oranges")
         self.assertNotEqual(result, -1)
 
+    def test_sort_list(self):
+        result = sort_and_search_array.sort_array()
+        self.assertEqual(result, ["Apples", "bananas", "cherries", "grapes"])
 
 
 if __name__ == '__main__':
